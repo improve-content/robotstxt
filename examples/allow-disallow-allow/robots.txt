@@ -1,0 +1,11 @@
+User-agent: blockme #disallow first
+Disallow: / #from the whole site
+#extra comment to mess up formatting
+User-agent: allowme #allow him
+Disallow: #everywhere
+
+User-agent: badtwo
+Disallow: /
+
+User-agent: allowpartial # bonus robot
+Disallow: /bad-robot/
