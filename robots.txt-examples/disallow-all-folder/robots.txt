@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /shall-not-pass/
+Disallow: /dont-look-here-either/
+Disallow: /bad-robot/
