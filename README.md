@@ -14,3 +14,4 @@ Robots.txt is a file on websites that tells automated programs crawling around w
 <li>Returns any declared sitemaps</li>
 <li>Ignores comments</li>
 <li>Supports specific allow directives that override less specific disallows (based upon length)</li>
+</ul>
